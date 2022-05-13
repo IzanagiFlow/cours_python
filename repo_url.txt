@@ -1,3 +1,4 @@
 https://github.com/sherlock-project/sherlock.git
 https://github.com/kurobeats/metagoofil.git
 https://github.com/lanmaster53/recon-ng.git
+https://github.com/lanmaster-toubidon
